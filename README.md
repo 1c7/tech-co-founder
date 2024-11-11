@@ -11,5 +11,23 @@
 - [How To NOT Get Screwed As A Software Engineer](https://www.youtube.com/watch?v=fcfVjd_oV1I)
 
 ## 备注
-临时起意做了这个仓库，目前资料还比较少，等后面有空了我再收集和补充。
+临时起意做了这个仓库，目前资料还比较少，等后面我有空了再收集和补充。   
+欢迎提交 PR，欢迎 fork。
 
+<!-- 
+还没来得及看，看完才能决定要不要收录
+
+Co-Founder Equity Mistakes to Avoid | Startup School
+https://www.youtube.com/watch?v=DISocTmEwiI&ab_channel=YCombinator
+
+How Startup Fundraising Works | Startup School
+https://www.youtube.com/watch?v=zBUhQPPS9AY&t=64s
+
+Co-Founder Mistakes That Kill Companies & How To Avoid Them
+https://www.youtube.com/watch?v=dlfjs_eEEzs&ab_channel=YCombinator
+
+How Much Equity to Give Your Cofounder - Michael Seibel
+https://www.youtube.com/watch?v=9NhEBVPlJs4&ab_channel=YCombinator
+
+
+ -->
