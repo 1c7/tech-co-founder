@@ -10,3 +10,6 @@
 - [知乎: 为什么找技术合伙人这么难？](https://www.zhihu.com/question/30370346/answer/3463134789)
 - [How To NOT Get Screwed As A Software Engineer](https://www.youtube.com/watch?v=fcfVjd_oV1I)
 
+## 备注
+临时起意做了这个仓库，目前资料还比较少，等后面有空了我再收集和补充。
+
